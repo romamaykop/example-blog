@@ -22,8 +22,9 @@ session_start();
   <?php
   require_once 'new.php';
   ?> 
+  
  <div id="podval">
-	<h1 align='center'>&copy; Kalashnikov Roman and ProgFors</h1>
+	<p align='center'>&copy; Kalashnikov Roman and ProgFors</p>
 	</div>
  </div>
 </body>
