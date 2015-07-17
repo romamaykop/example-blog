@@ -80,6 +80,19 @@ margin-left:4px;
 float:left;
 }
 
+.podval{
+height:120px;
+width:460px;
+
+margin-top:4px;
+margin-left:4px;
+float:left;
+font-size:10px;
+
+padding:10px;
+text-align:left;
+}
+
 .text{
 height:120px;
 width:460px;
