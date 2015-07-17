@@ -80,6 +80,20 @@ margin-left:4px;
 float:left;
 }
 
+.podval{
+height:120px;
+width:90px;
+
+margin-top:4px;
+margin-left:4px;
+float:right;
+font-family: Trebuchet MS, Arial, Times New Roman;
+font-size: 8px;
+
+padding:10px;
+text-align:left;
+}
+
 .text{
 height:120px;
 width:460px;
