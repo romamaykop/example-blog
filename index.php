@@ -16,7 +16,7 @@ session_start();
 <body>
 <div id="container">
 <div id="header">
-	<h1 align='center'>Блог автофанатов</h1>
+	<h1 align='center'>Блог водителей серебристых девяток</h1>
 	</div>
 
   <?php
