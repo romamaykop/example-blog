@@ -6,7 +6,7 @@ session_start();
 
 <head>
 
-<title>Ралли - главная странница </title>
+<title>Ромка-картонка =Р </title>
 
 <link rel="stylesheet" type="text/css" href="style.css"> 
 
